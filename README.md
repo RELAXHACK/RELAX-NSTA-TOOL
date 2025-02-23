@@ -1,2 +1,1 @@
-# RELAX-NSTA-TOOL
-Relax insta tool
+relax sayfasına hoş geldiniz
